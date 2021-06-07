@@ -8,6 +8,7 @@ This file was made on a Jupyter notebook, but you are free to cutnpaste where ev
 ## Goals
 - [ ] refine to a .py file that can run from terminal <br>
 - [ ] create a chrome extension to be used in conjunction with other accessibility checking tools, such as WAVE. 
+- [ ] add timer so that it doesn't overwhelm websites (is this an issue?)
 
 ## Acknowledgements:
 Many thanks to the people of the intertubes and places like StackExchange - where would I be without your help?
